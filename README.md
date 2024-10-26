@@ -8,7 +8,7 @@ Hosted by [Nagarro](https://www.nagarro.com/de).
 
 ### Setup
 
-Serve the clone directory with a simple http server such as
+Serve the cloned directory with a simple http server such as
 
 ```
 python -m http.server
