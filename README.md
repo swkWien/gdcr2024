@@ -8,39 +8,18 @@ Hosted by [Nagarro](https://www.nagarro.com/de).
 
 ### Setup
 
-Download and install [Quarto](https://quarto.org/), a Markdown-oriented publishing system.
+Serve the clone directory with a simple http server such as
 
-(Installation is only necessary if you want to build the slides locally. You can also inspect
-the rendered slides [here](https://swkwien.github.io/gdcr24/).)
+```
+python -m http.server
+```
+
+and open it [http://localhost:8000/](http://localhost:8000/) in the browser.
 
 ### Add Content
 
-To add your showcase
-1. Copy-paste `template/` folder in the `sessions/` directory and rename it after your showcase and your name,
-   e.g. `demo_octopus`.
-1. Adjust the `_content.qmd` according to guide your presentation/discussion.
-1. Add a corresponding include directive in `index.qmd`.
-
-*Feel free to adjust the template if you feel more comfortable with a different format. We do not aim for
-identically looking presentations. However, please make sure that you answer the core questions regarding
-your motivation of using the tools and your experience with them.*
+Use the slides.md to edit your slides
 
 ### Learn more
 
-Copy-pasting sections from other contributors should work just fine.
-If you want to know more about Quarto, take a look at the official docs regarding
-* [presentations](https://quarto.org/docs/presentations/) and at the
-* [revealjs](https://quarto.org/docs/presentations/revealjs/) section if you want to leverage
-  specific [reveal.js](https://revealjs.com/) features for your presentation.
-
-To build/render the slides locally, run the `render.sh` or `render_on_save.sh` scripts
-(or use whatever technique you prefer).
-
-## Publishing
-
-No action is required on your side. The slides are automatically build and deployed
-using GitHub Actions.
-
-## Authors
-
-*If you contributed to this repository, add your name here.*
+[revealjs.com/markdown/](https://revealjs.com/markdown/)
