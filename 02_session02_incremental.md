@@ -4,25 +4,27 @@ Focus: Incremental Software Development
 
 Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegler@fosstodon.org)
 
+---
 
+## Feedback
+
+- Why do we need it?
 
 ---
 
-## Incremental Software Development
-
-![you-keep-using-that-word.png](./images/you-keep-using-that-word.png)
+![https://www.tldraw.com/r/e6COxX8fmo2-vdhRaKWjj?d=v-175.-210.2561.1263.page](./images/lack-of-feedback.svg)
 
 ---
 
-### Iterative vs Incremental
+### Feedback provides
 
-What's the difference?
+- A sense of control
+- Informed decisions
+- Confidence
 
 ---
 
-# Iterium [Latin]
-
-## "again"
+### We want Feedback early and often
 
 ---
 
@@ -34,15 +36,23 @@ increment: "amount of increase"
 
 ---
 
-## What qualifies an increment?
+## Qualities of an increment?
 
+- provides feedback
+- small
 - usable
 - valuable
-  - something that provides feedback
-- enhancement in behaviour
-- technical details are secondary
+- vertical over horizontal
 
-##
+---
+
+# Incremental vs Iterative
+
+---
+
+# Iterium [Latin]
+
+## "again"
 
 ---
 
