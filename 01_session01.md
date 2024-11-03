@@ -1,9 +1,11 @@
 # Session 1
 
-Focus: Ensemble
+Focus: Ensemble and TDD
 
 Facilitator:
 
 ---
 
-## Ensemble: TDD/kata Intro, by language
+## Ensemble
+
+Form *n* groups based on your favourite language.

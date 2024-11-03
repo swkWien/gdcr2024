@@ -2,7 +2,7 @@
 
 Focus: Let's get to know each other
 
-Facilitator: Peter Kofler
+Facilitator: Peter Kofler [@codecopkofler](https://x.com/codecopkofler)
 
 ---
 

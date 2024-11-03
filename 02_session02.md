@@ -2,7 +2,9 @@
 
 Focus: Incremental Software Development
 
-Facilitator: Gregor Riegler
+Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegler@fosstodon.org)
+
+
 
 ---
 

@@ -2,11 +2,11 @@
 
 Focus: Baby Steps
 
-Facilitator: Roland Germ [@rolgerm](https://twitter.com/rolgerm)
+Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-## What is a constraint
+## What Is a constraint?
 
 . . .
 
@@ -19,24 +19,23 @@ Facilitator: Roland Germ [@rolgerm](https://twitter.com/rolgerm)
 
 ## It slows us down
 
-![](sessions/06_constraints/snail.jpg)
+![snail](./images/snail.jpg)
 
 ---
 
 ## It restricts our actions
 
-![](sessions/06_constraints/challenge.jpg)
+![challenge](./images/challenge.jpg)
 
 ---
 
-## Baby Steps 👼
+## Taking Baby Steps 👼
 
-1. Setup a timer for 2 minutes interval when you start.
+1. Setup version control, commit your setup.
+1. Set a timer for 2 minutes when you start.
 1. Write exactly one test. When the timer rings:
-    * test is red => delete and restart.
-    * test is green => continue.
+    * <span style="color:red;">test is red</span> => delete (revert) and restart.
+    * <span style="color:green;">test is green</span> => continue (commit).
 1. Restart timer and repeat from 2
-
-Use the same procedure for Refactoring!
-
----
+    * no discussions in between timers
+1. Use the same procedure for Refactoring!
