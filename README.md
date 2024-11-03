@@ -16,6 +16,8 @@ python -m http.server
 
 and open it [http://localhost:8000/](http://localhost:8000/) in the browser.
 
+Or you may run the `serve.sh` script, which does just that.
+
 ### Add Content
 
 Use the slides.md to edit your slides
