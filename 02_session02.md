@@ -6,14 +6,13 @@ Facilitator: Gregor Riegler
 
 ---
 
-
 ## Incremental Software Development
 
 ![you-keep-using-that-word.png](./images/you-keep-using-that-word.png)
 
 ---
 
-# Iterative vs Incremental
+### Iterative vs Incremental
 
 What's the difference?
 
@@ -36,12 +35,12 @@ increment: "amount of increase"
 ## What qualifies an increment?
 
 - usable
-- valuable 
+- valuable
   - something that provides feedback
-- enhancement in behavior
+- enhancement in behaviour
 - technical details are secondary
 
-## 
+##
 
 ---
 

@@ -2,8 +2,8 @@
 
 Focus: Incremental Software Development
 
-Facilitator: 
+Facilitator:
 
 ---
 
-### Constraint: TCR, including Demo (important) Session, Retro
+## Constraint: TCR, including Demo (important) Session, Retro

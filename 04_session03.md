@@ -6,14 +6,14 @@ Facilitator: Roland Germ [@rolgerm](https://twitter.com/rolgerm)
 
 ---
 
-## What is a constraint 🛝
+## What is a constraint
 
 . . .
 
 \
 <span style="color:red;">COUNTABLE NOUN</span>
 
-> A **constraint** is something that limits or controls what you can do. 
+> A **constraint** is something that limits or controls what you can do.
 
 ---
 

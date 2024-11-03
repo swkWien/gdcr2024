@@ -1,9 +1,9 @@
-# Session 1 
+# Session 1
 
 Focus: Ensemble
 
-Facilitator: 
+Facilitator:
 
 ---
 
-### Ensemble: TDD/kata Intro, by language 
+## Ensemble: TDD/kata Intro, by language

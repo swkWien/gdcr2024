@@ -2,8 +2,8 @@
 
 Focus: Incremental Software Development
 
-Facilitator: 
+Facilitator:
 
 ---
 
-###	Constraint: Evil Ping Pong, including Demo (important) Session, Retro 
+## Constraint: Evil Ping Pong, including Demo (important) Session, Retro
