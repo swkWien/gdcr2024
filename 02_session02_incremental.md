@@ -38,6 +38,8 @@ increment: "amount of increase"
 
 ## Qualities of an increment?
 
+- functional
+- passes the tests
 - provides feedback
 - small
 - usable
