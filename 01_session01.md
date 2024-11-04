@@ -6,7 +6,23 @@ Facilitator: Peter Kofler [@codecopkofler](https://x.com/codecopkofler)
 
 ---
 
-## TODO (Peter) Kata Vorstellen
+## Tetris
+
+- a tile-matching puzzle where
+- players manipulate falling blocks
+- to complete horizontal lines on a vertical grid.
+
+Who played Tetris?
+
+---
+
+### Tetris Details
+
+- The seven tetrominoes are I, O, T, S, Z, L, and J.
+- In the grid, usually 10 wide and 20 tall, tetrominoes fall from the top and are placed at the bottom.
+- When a row is completely filled, it clears, causing the blocks above it to shift downward.
+- Players control tetrominoes' horizontal movement and rotate them to fit better into spaces.
+- The game ends when a new tetromino can no longer fit into the grid because the stack of blocks has reached the top.
 
 ---
 
@@ -17,8 +33,8 @@ Facilitator: Peter Kofler [@codecopkofler](https://x.com/codecopkofler)
 
 ---
 
-## Rooms
+### Ensemble Rooms
 
 - TODO (Roland): List of Rooms:
-    - Jungle (Links hinten)
-    - ??
+- Jungle (Links hinten)
+- ?
