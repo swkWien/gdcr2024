@@ -44,7 +44,10 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ## Retrospective 🏟️
 
-TODO What do we want to do here?
-- 1 minute per shout out
+- How often did you revert?
+- What was the shortest green step?
 
+<--  
+- How did you achieve it? 
+-->
 <-- 10 minutes -->

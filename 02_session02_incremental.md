@@ -57,7 +57,6 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ## Retrospective 🏟️
 
-TODO What do we want to do here?
-- 1 minute per shout out
+Which increments did you come up with?
 
 <-- 10 minutes -->
