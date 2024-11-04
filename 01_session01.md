@@ -2,10 +2,23 @@
 
 Focus: Ensemble and TDD
 
-Facilitator:
+Facilitator: Peter Kofler [@codecopkofler](https://x.com/codecopkofler)
+
+---
+
+## TODO (Peter) Kata Vorstellen
 
 ---
 
 ## Ensemble
 
-Form *n* groups based on your favourite language.
+- Who has participated in a ensemble/mob before?
+- Form 6 groups based on your favourite language.
+
+---
+
+## Rooms
+
+- TODO (Roland): List of Rooms:
+    - Jungle (Links hinten)
+    - ??
