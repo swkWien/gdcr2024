@@ -26,17 +26,12 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ### We want Feedback early and often
 
----
-
-# Incrēmentum [Latin]
-
-## "growth", "increase"
-
-increment: "amount of increase"
+- Small steps
+- Many more much smaller steps 💯
 
 ---
 
-## Qualities of an increment?
+## Qualities of such a step
 
 - functional
 - passes the tests
@@ -48,15 +43,12 @@ increment: "amount of increase"
 
 ---
 
-# Incremental vs Iterative
-
----
-
-# Iterium [Latin]
-
-## "again"
-
----
-
 ![images/mvp.png](./images/mvp.png)
 
+---
+
+## Ensemble
+
+- Form 6 new groups.
+- Start from scratch.
+- Make the smallest steps possible applying the quality criteria
