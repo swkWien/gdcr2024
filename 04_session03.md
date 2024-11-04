@@ -44,10 +44,11 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ## Retrospective 🏟️
 
-- How often did you revert?
-- What was the shortest green step?
+* How often did you revert?
+* What was the shortest green step?
 
-<--  
-- How did you achieve it? 
+<--
+* How did you achieve it?
 -->
+
 <-- 10 minutes -->
