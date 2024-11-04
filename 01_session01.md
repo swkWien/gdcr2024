@@ -36,5 +36,14 @@ Who played Tetris?
 ### Ensemble Rooms
 
 - TODO (Roland): List of Rooms:
-- Jungle (Links hinten)
-- ?
+    - Jungle (Links hinten)
+    - ??
+
+---
+
+## Retrospective 🏟️
+
+TODO What do we want to do here?
+- 1 minute per shout out
+
+<-- 10 minutes -->

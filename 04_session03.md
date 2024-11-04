@@ -39,3 +39,12 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 1. Restart timer and repeat from 2
     * no discussions in between timers
 1. Use the same procedure for Refactoring!
+
+---
+
+## Retrospective 🏟️
+
+TODO What do we want to do here?
+- 1 minute per shout out
+
+<-- 10 minutes -->

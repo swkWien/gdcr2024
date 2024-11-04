@@ -24,3 +24,12 @@ see https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 - Run tests often
 - Tests are green -> code is committed
 - Tests failed -> code is reverted and goes back to green
+
+---
+
+## Retrospective 🏟️
+
+TODO What do we want to do here?
+- 1 minute per shout out
+
+<-- 10 minutes -->

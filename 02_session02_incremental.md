@@ -52,3 +52,12 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 - Form 6 new groups.
 - Start from scratch.
 - Make the smallest steps possible applying the quality criteria
+
+---
+
+## Retrospective 🏟️
+
+TODO What do we want to do here?
+- 1 minute per shout out
+
+<-- 10 minutes -->
