@@ -24,7 +24,6 @@ by finishing two sentences:
   and I will contribute [...].
 - Optional: one random/fun fact about you.
 
-
 ---
 
 ## I'll Start
@@ -45,3 +44,12 @@ by finishing two sentences:
 - Outer circle rotates to the right on signal.
 
 *Let's go*
+
+---
+
+## The Sentences
+
+- My name is [...], I am a [role].
+- I am here today because [...] \
+  and I will contribute [...].
+- Optional: one random/fun fact about you.
