@@ -10,7 +10,7 @@ Hosted by [Nagarro](https://www.nagarro.com/de).
 
 Serve the cloned directory with a simple http server such as
 
-```
+```[bash]
 python -m http.server
 ```
 
@@ -22,6 +22,6 @@ Or you may run the `serve.sh` script, which does just that.
 
 Use the slides.md to edit your slides
 
-### Learn more
+### Learn More
 
 [revealjs.com/markdown/](https://revealjs.com/markdown/)
