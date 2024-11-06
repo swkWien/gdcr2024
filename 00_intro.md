@@ -15,7 +15,7 @@ Does anyone speak only English? Please report.
 
 ---
 
-## Big Thank You to Nagarro! 
+## Big Thank You to Nagarro! 💗
 
 ![./images/nagarro-logo.png](./images/nagarro-logo.png)
 
