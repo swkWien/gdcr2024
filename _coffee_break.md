@@ -1,3 +1,3 @@
 ## Enjoy the Coffee Break ☕
 
-*30 minutes.*
+*10 minutes.*
