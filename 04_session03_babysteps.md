@@ -48,3 +48,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 * How often did you revert?
 * What was the shortest green step?
+
+---
+
+## Enjoy the Coffee Break ☕
+
+*And be back in 10 minutes.*

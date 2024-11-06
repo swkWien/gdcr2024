@@ -46,3 +46,9 @@ Who played Tetris?
 How did it feel?
 
 <!-- 10 minutes -->
+
+---
+
+## Enjoy the Coffee Break ☕
+
+*And be back in 10 minutes.*
