@@ -32,5 +32,4 @@ see https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 How did the revert make you feel?
 When did the revert feel like a good thing, and why?
 
-
 <-- 10 minutes -->

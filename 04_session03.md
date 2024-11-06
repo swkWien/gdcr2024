@@ -46,8 +46,8 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 <!-- 10 minutes -->
 <br>
 
-- How often did you revert?
-- What was the shortest green step?
+* How often did you revert?
+* What was the shortest green step?
 
 <!--  
 - How did you achieve it? 
