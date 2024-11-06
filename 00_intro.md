@@ -15,9 +15,9 @@ Does anyone speak only English? Please report.
 
 ---
 
-## Big Thank You to Nagarro! 💗
+## Big Thank You to Nagarro! 
 
-Thank you very much for hosting us!
+![Nagarro](./images/Nagarro Horizontal Light.png)
 
 ---
 
