@@ -23,9 +23,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-## It restricts our actions
+## So we focus on one aspect
 
-![challenge](./images/challenge.jpg)
+![swimming](./images/swimming_constraint.jpg)
 
 ---
 
