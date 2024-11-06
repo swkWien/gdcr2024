@@ -11,6 +11,12 @@ Hosted by [Nagarro](https://www.nagarro.com/de).
 Serve the cloned directory with a simple http server such as
 
 ```[bash]
+# python3
+python -m SimpleHTTPServer
+```
+
+```[bash]
+# python2
 python -m http.server
 ```
 
