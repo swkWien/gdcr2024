@@ -20,7 +20,7 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ---
 
-### We want Feedback early and often
+### Feedback💡, early and often!
 
 - Small steps
 - Many more much smaller steps 💯
@@ -47,7 +47,8 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 - Form 6 new groups.
 - Start from scratch.
-- Make the smallest steps possible applying the quality criteria
+- Make small steps applying the quality criteria.
+- How small can you go?
 
 ---
 
