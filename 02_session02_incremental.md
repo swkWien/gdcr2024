@@ -59,4 +59,4 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 Which increments did you come up with?
 
-<-- 10 minutes -->
+<!-- 10 minutes -->

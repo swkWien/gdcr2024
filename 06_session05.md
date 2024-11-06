@@ -25,7 +25,7 @@ TODO fill
 ---
 
 ## Retrospective 🏟️
+<!-- 10 minutes -->
 
 How did your tests change?
 
-<-- 10 minutes -->

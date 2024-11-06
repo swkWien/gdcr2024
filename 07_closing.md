@@ -2,7 +2,7 @@
 
 Focus: Let's get to know each other
 
-Facilitator: Roland Germ [@codecopkofler](https://x.com/codecopkofler)
+Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 <!-- Closing Retro 17:00 17:30 -->
 

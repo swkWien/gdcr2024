@@ -110,7 +110,6 @@ Practice - reflect - improve! 🥳
 | 10:50 | Session 2 |
 | 12:00 | Lunch Break |
 | 13:00 | Session 3  |
-| 14:10 | Coffee Break ☕ |
 | 14:40 | Session 4 |
 | 15:55 | Session 5 |
 | 17:00 | Final Retrospective
@@ -128,8 +127,8 @@ Each session follows the same structure:
 - You form groups/pairs.
 - Get into coding.
 - Delete the code after the session.
-- A short retrospective to reflect.
-- A *short* break.
+- A short retrospective to reflect. 🏟️
+- A *short* break. ☕
 
 ---
 
