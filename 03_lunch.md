@@ -44,7 +44,7 @@
 
 <br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
-    <p><em>A new perspective I gained today that I hadn’t considered before is...</em></p>
+    <p><em>An insight or technique I discovered that was particularly useful is … because …</em></p>
 </blockquote>
 
 ---
@@ -60,7 +60,7 @@ Everbody takes one step to the right!
 
 <br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
-    <p><em>The biggest ‘aha!’ moment today was when I realized …</em></p>
+    <p><em>One question that’s still buzzing around my brain after the morning sessions is …</em></p>
 </blockquote>
 
 ---
@@ -76,7 +76,7 @@ Everbody takes another step to the right!
 
 <br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
-    <p><em>The funniest or weirdest thing my in my sessions today was …</em></p>
+    <p><em>The funniest or weirdest thing in my sessions today was …</em></p>
 </blockquote>
 
 ---
