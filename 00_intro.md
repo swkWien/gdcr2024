@@ -1,6 +1,9 @@
-# Global Day of Coderetreat
-
+## Global Day of Coderetreat 2024
 *Welcome to a day of deliberate practice and learning!*
+
+<div style="flex: 1; padding: 1px; text-align: left;">
+  <img src="images/world.jpg" style="max-width: 100%; height: 160mm;">
+</div>
 
 ---
 
