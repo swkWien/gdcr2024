@@ -42,6 +42,13 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
+## Find a Partner! 👀
+
+*"Pair programming is a conversation between people, where the byproduct is code."*
+
+---
+
+
 ## Retrospective 🏟️
 <!-- 10 minutes / additional question: How did you achieve it?-->
 <br>
