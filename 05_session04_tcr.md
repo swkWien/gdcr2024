@@ -1,29 +1,30 @@
 # Session 4
 
-Focus: Incremental Software Development
+Focus: TCR (Test && Commit || Revert)
 
 Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegler@fosstodon.org)
 
 ---
 
-## Constraint: TCR, including Demo (important) Session, Retro
-
-TODO fill
-
-Process/Increments
-
-- Add some kind of (very small) test passing in some kind of way. (Cheating allowed)
-- Once passing, replace fake implementations with real implementation, a little at a time.
-
-see https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+![https://www.tldraw.com/r/e6COxX8fmo2-vdhRaKWjj?d=v-175.-210.2561.1263.page](./images/hanteln.jpg)
 
 ---
 
-## Test && commit || revert
+### TCR (Test && Commit || Revert)
 
-- Run tests often
-- Tests are green -> code is committed
-- Tests failed -> code is reverted and goes back to green
+![https://www.tldraw.com/r/e6COxX8fmo2-vdhRaKWjj?d=v-175.-210.2561.1263.page](./images/tcr.svg)
+
+---
+
+## Demo
+
+---
+
+## Find a Partner! 👀
+
+**No TCR Tooling!** (Too much setup time)
+
+*"Pair programming is a conversation between people, where the byproduct is code."*
 
 ---
 
