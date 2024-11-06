@@ -17,7 +17,7 @@ Does anyone speak only English? Please report.
 
 ## Big Thank You to Nagarro! 
 
-![Nagarro](./images/Nagarro Horizontal Light.png)
+![./images/nagarro-logo.png](./images/nagarro-logo.png)
 
 ---
 
