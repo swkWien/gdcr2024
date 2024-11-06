@@ -43,12 +43,8 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 ---
 
 ## Retrospective 🏟️
-<!-- 10 minutes -->
+<!-- 10 minutes / additional question: How did you achieve it?-->
 <br>
 
 * How often did you revert?
 * What was the shortest green step?
-
-<!--  
-- How did you achieve it? 
--->
