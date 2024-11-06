@@ -16,11 +16,7 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ---
 
-### Feedback provides
-
-- A sense of control
-- Informed decisions
-- Confidence
+![https://www.tldraw.com/r/e6COxX8fmo2-vdhRaKWjj?d=v-175.-210.2561.1263.page](./images/feedback.svg)
 
 ---
 
@@ -33,12 +29,12 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ## Qualities of such a step
 
+- provides feedback
 - functional
 - passes the tests
-- provides feedback
-- small
 - usable
 - valuable
+- small
 - vertical over horizontal
 
 ---
