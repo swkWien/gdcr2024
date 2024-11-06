@@ -19,13 +19,13 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ## It slows us down
 
-![snail](./images/snail.jpg)
+<img src="./images/snail.jpg" style="width: 960px; height: 640px;" />
 
 ---
 
 ## So we focus on one aspect
 
-![swimming](./images/swimming_constraint.jpg)
+<img src="./images/swimming_constraint.jpg" style="width: 960px; height: 640px;" />
 
 ---
 
