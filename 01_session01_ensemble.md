@@ -35,9 +35,45 @@ Who played Tetris?
 
 ### Ensemble Rooms
 
-- TODO (Roland): List of Rooms:
-- Jungle (Links hinten)
-- ??
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; padding: 1px; text-align: left;">
+    <ul>
+      <li>Town Hall</li>
+      <li>Sahara</li>
+      <li>Serengeti</li>
+      <li>Blue Lagoon</li>
+      <li>Grand Canyon</li>
+      <li>Ayers Rock</li>
+      <li>Amazonas</li>
+      <li>Avoid: Creative</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="images/nagarro-office.png" alt="Nagarro Office" style="max-width: 100%; height: 160mm;">
+    <div class="fragment" style="position: absolute; top: 15%; left: 50%; width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.5); border: 2px solid white;"></div>
+    <div class="fragment" style="position: absolute; top: 86%; left: 85%; color: blue; font-size: 24px;">
+      <strong>Town Hall</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 82%; left: 80%; color: blue; font-size: 24px;">
+      <strong>Sahara</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 84%; left: 68%; color: blue; font-size: 24px;">
+      <strong>Serengeti</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 91%; left: 60%; color: blue; font-size: 24px;">
+      <strong>Blue Lagoon</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 81%; left: 53%; color: blue; font-size: 24px;">
+      <strong>Grand Canyon</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 67%; left: 75%; color: blue; font-size: 24px;">
+      <strong>Ayers Rock</strong>
+    </div>
+    <div class="fragment" style="position: absolute; top: 48%; left: 75%; color: blue; font-size: 24px;">
+      <strong>Amazonas</strong>
+    </div>
+  </div>
+</div>
 
 ---
 
