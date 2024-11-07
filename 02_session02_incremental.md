@@ -16,15 +16,11 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ---
 
-### Feedback provides
-
-- A sense of control
-- Informed decisions
-- Confidence
+![https://www.tldraw.com/r/e6COxX8fmo2-vdhRaKWjj?d=v-175.-210.2561.1263.page](./images/feedback.svg)
 
 ---
 
-### We want Feedback early and often
+### Feedback💡, early and often!
 
 - Small steps
 - Many more much smaller steps 💯
@@ -33,12 +29,12 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 ## Qualities of such a step
 
+- provides feedback
 - functional
 - passes the tests
-- provides feedback
-- small
 - usable
 - valuable
+- small
 - vertical over horizontal
 
 ---
@@ -51,7 +47,8 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 
 - Form 6 new groups.
 - Start from scratch.
-- Make the smallest steps possible applying the quality criteria
+- Make small steps applying the quality criteria.
+- How small can you go?
 
 ---
 
