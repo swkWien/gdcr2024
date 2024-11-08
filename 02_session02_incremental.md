@@ -53,7 +53,7 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 ---
 
 ## Retrospective 🏟️
+
 <!-- 10 minutes -->
 
-Which increments did you come up with?
-
+- Which increments did you come up with?

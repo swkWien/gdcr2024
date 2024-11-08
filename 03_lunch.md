@@ -1,8 +1,9 @@
-## Enjoy Your Lunch in the Kitchen! 
+# Lunch
+
+*Enjoy Your Lunch in the Kitchen!*
 
 🥗🌽🥬🥟🍛🧆
 
-<br></br>
 **We will continue at 13:00!**
 
 ---
@@ -15,7 +16,6 @@
 
 ## Alice in Wonderland
 
-<br>
 <div style="text-align: left;">
   <blockquote style="width: 80%; border: 2px solid black; padding: 10px;">
     <p><strong>The Mad Hatter :</strong> <em>"Have I gone mad?"</em></p>
@@ -42,39 +42,36 @@
 
 ## Finish The Sentence
 
-<br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
-    <p><em>An insight or technique I discovered that was particularly useful is … because …</em></p>
+  <p><em>An insight or technique I discovered that <br>
+  was particularly useful is … because …</em></p>
 </blockquote>
 
 ---
 
 ## Rotate
 
-<br>
-Everbody takes one step to the right!
+Everybody takes one step to the right!
 
 ---
 
 ## Finish The Sentence
 
-<br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
-    <p><em>One question that’s still buzzing around my brain after the morning sessions is …</em></p>
+  <p><em>One question that’s still buzzing around <br>
+  my brain after the morning sessions is …</em></p>
 </blockquote>
 
 ---
 
 ## Rotate
 
-<br>
-Everbody takes another step to the right!
+Everybody takes another step to the right!
 
 ---
 
 ## Finish The Sentence
 
-<br>
 <blockquote style="width: 100%; border: 2px solid black; padding: 10px;">
     <p><em>The funniest or weirdest thing in my sessions today was …</em></p>
 </blockquote>

@@ -10,7 +10,6 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 . . .
 
-\
 <span style="color:red;">COUNTABLE NOUN</span>
 
 > A **constraint** is something that limits or controls what you can do.
@@ -48,10 +47,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-
 ## Retrospective 🏟️
+
 <!-- 10 minutes / additional question: How did you achieve it?-->
-<br>
 
 * How often did you revert?
 * What was the shortest green step?
@@ -60,4 +58,6 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ## Enjoy the Coffee Break ☕
 
-*And be back in 10 minutes.*
+🥗🌽🥬🥟🍛🧆
+
+**We will continue at 14:40!**

@@ -12,7 +12,7 @@ Facilitator: Peter Kofler [@codecopkofler](https://x.com/codecopkofler)
 - players manipulate falling blocks
 - to complete horizontal lines on a vertical grid.
 
-Who played Tetris?
+*Who played Tetris?*
 
 ---
 
@@ -79,12 +79,12 @@ Who played Tetris?
 
 ## Retrospective 🏟️
 
-How did it feel?
+- How did it feel?
 
 <!-- 10 minutes -->
 
 ---
 
-## Enjoy the Coffee Break ☕
+## Enjoy the Break ☕
 
 *And be back in 10 minutes.*

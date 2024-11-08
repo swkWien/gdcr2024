@@ -6,12 +6,6 @@ Facilitator: Adam Zielinski [@adam0x5A](https://x.com/adam0x5A)
 
 ---
 
-## Constraint: Evil Ping Pong, including Demo (important) Session, Retro
-
-TODO fill
-
----
-
 ## Evil Pairing
 
 *aka Find the Loophole*
@@ -24,7 +18,20 @@ TODO fill
 
 ---
 
+## Demo
+
+---
+
+## Find a Partner! 👀
+
+**We will give a sign to switch roles!**
+
+*"Pair programming is a conversation between people, where the byproduct is code."*
+
+---
+
 ## Retrospective 🏟️
+
 <!-- 10 minutes -->
 
-How did your tests change?
+- How did your tests change?

@@ -29,13 +29,14 @@ Facilitator: Gregor Riegler [@gregorriegler](https://fosstodon.org/@gregorriegle
 ---
 
 ## Retrospective 🏟️
+
 <!-- 10 minutes -->
 
-How did the revert make you feel?
-When did the revert feel like a good thing, and why?
+- How did the revert make you feel?
+- When did the revert feel like a good thing, and why?
 
 ---
 
-## Enjoy the Coffee Break ☕
+## Enjoy the Break ☕
 
 *And be back in 10 minutes.*

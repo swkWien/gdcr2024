@@ -1,8 +1,8 @@
 # Closing Circle
 
-Focus: Let's get to know each other
+Focus: Let's retrospect
 
-Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
+Facilitator: Daniel
 
 <!-- Closing Retro 17:00 17:30 -->
 
@@ -11,7 +11,7 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 ---
 
 ## 1-2-4-All ☀️
-<br>
+
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="flex: 1;" >
     <img src="./images/124A-Rand.png" />
@@ -26,8 +26,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-## Alone - 1 minute 🕑
-<br><br>
+## Alone -
+
+## 1 minute 🕑
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div >
@@ -40,8 +41,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-## Find a pair - 2 minutes 🕑
-<br><br>
+## Find a pair -
+
+## 2 minutes 🕑
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div >
@@ -54,8 +56,9 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 ---
 
-## Groups of 4 - 4 minutes 🕑
-<br><br>
+## Groups of 4 -
+
+## 4 minutes 🕑
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div >
@@ -73,7 +76,6 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 ---
 
 ## All ☀️
-<br><br>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <div >
@@ -82,7 +84,11 @@ Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
   <div style="flex: 1;">
     <ul>
         <li>Which answers / results / findings did your group of four find particularly remarkable?</li>
-        <li>What else is noteable for the whole group?</li>
+        <li>What else is notable for the whole group?</li>
     </ul>
   </div>
 </div>
+
+---
+
+## Thank you for coming today 💗
