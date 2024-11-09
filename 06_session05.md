@@ -1,6 +1,6 @@
 # Session 5
 
-Focus: Incremental Software Development
+Focus: Expressive test intent
 
 Facilitator: Adam Zielinski [@adam0x5A](https://x.com/adam0x5A)
 
@@ -18,15 +18,29 @@ Facilitator: Adam Zielinski [@adam0x5A](https://x.com/adam0x5A)
 
 ---
 
-## Demo
+## Demo 💻
+
+---
+
+## Fizzbuzz
+
+The player designated to go first says the number **"one"**,
+and the players then count upwards in turn  
+(**"one"**, **"two"**, ...).
+
+However, any number divisible by **three** is replaced by the word **"fizz"** and any number divisible by **five** by the word **"buzz"**.  
+
+(**"one"**, **"two"**, **"Fizz"**, ...).
+
+Numbers divisible by **both three and five** (i.e. divisible by fifteen) become **"fizz buzz"**.
 
 ---
 
 ## Find a Partner! 👀
 
-**We will give a sign to switch roles!**
-
 *"Pair programming is a conversation between people, where the byproduct is code."*
+
+**We will give a sign to switch roles!**
 
 ---
 
