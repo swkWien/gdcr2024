@@ -3,6 +3,7 @@
 <img src="./images/SoCraTes_OpenSpace.jpg">
 
 ---
+
 ## Ticket Raffle!
 
 <img src="./images/SoCraTes_Austria.svg" style="max-height: 50vh">

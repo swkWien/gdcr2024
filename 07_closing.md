@@ -2,7 +2,7 @@
 
 Focus: Let's retrospect
 
-Facilitator: Daniel
+Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
 
 <!-- Closing Retro 17:00 17:30 -->
 
