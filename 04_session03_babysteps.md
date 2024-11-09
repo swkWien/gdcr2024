@@ -2,7 +2,7 @@
 
 Focus: Baby Steps
 
-Facilitator: Roland Germ [@rolgerm](https://x.com/rolgerm)
+Facilitator: Andreas (Andi) Kleinbichler [@andi.kleinbichler@gmail.com](andi.kleinbichler@gmail.com)
 
 ---
 
